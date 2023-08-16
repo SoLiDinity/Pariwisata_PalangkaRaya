@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>681584606286-0ics1vtp6ja50jnuu97q6p3r0n34ddhg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.681584606286-0ics1vtp6ja50jnuu97q6p3r0n34ddhg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyByUrRjJq5JkhAecTh161zOTTbfdvxnrv8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>681584606286</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.uasPemweb</string>
+	<key>PROJECT_ID</key>
+	<string>uas-pemweb-i-pariwisata</string>
+	<key>STORAGE_BUCKET</key>
+	<string>uas-pemweb-i-pariwisata.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:681584606286:ios:026f97e2fd88f6c86f171f</string>
+	<key>DATABASE_URL</key>
+	<string>https://uas-pemweb-i-pariwisata-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

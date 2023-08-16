@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "681584606286",
+    "firebase_url": "https://uas-pemweb-i-pariwisata-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "uas-pemweb-i-pariwisata",
+    "storage_bucket": "uas-pemweb-i-pariwisata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681584606286:android:ac13285c50ae2b366f171f",
+        "android_client_info": {
+          "package_name": "com.example.uas_pemweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681584606286-j8pjmcmn5ha1onnpkvtf7mnqfdip2guf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkfYm1fzpj67S0kBBDHnMqgnqrjhUwC7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681584606286-j8pjmcmn5ha1onnpkvtf7mnqfdip2guf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -14,5 +14,7 @@ Repositori ini berisi tentang proyek aplikasi mobile android mengenai destinasi 
 ### 💻 Instalasi
 Secara sederhana, beberapa hal yang perlu diunduh adalah folder assets dan lib. namun secara lebih terperinci, berikut adalah langkah instalasi proyek secara lokal di perangkat anda dengan lebih rinci [coming soon]
 
+## Preview
+![preview-pariwisata-app](https://github.com/SoLiDinity/pariwisata-palangka-raya-mobile-app/assets/127974449/5a4d9fd9-9621-40d6-96ee-0d0295f852bf)
 
 

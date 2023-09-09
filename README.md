@@ -14,7 +14,20 @@ Repositori ini berisi tentang proyek aplikasi mobile android mengenai destinasi 
 ### 💻 Instalasi
 Secara sederhana, beberapa hal yang perlu diunduh adalah folder assets dan lib. namun secara lebih terperinci, berikut adalah langkah instalasi proyek secara lokal di perangkat anda dengan lebih rinci [coming soon](https://github.com/SoLiDinity/pariwisata-palangka-raya-mobile-app)
 
-## Preview
+## 🇺🇸 About Project
+### 📑 Description
+This repository contains a project about an Android mobile application for tourism destinations in Palangka Raya city. Within the application, a user can view a list of tourist destinations in Palangka Raya and read descriptions about these tourist destinations.
+
+### ⚡ Features
+- User account Login/Signup interface and mechanism
+- Grid display for the list of tourist destinations
+- Logout mechanism
+- Edit and delete account data mechanism (email & password)
+
+### 💻 Installation
+In a simplified manner, a few things need to be downloaded: the "assets" and "lib" folders. However, in a more detailed explanation, here are the steps to install the project locally on your device [coming soon](https://github.com/SoLiDinity/pariwisata-palangka-raya-mobile-app)
+
+## 📱 Preview
 ![preview-pariwisata-app](https://github.com/SoLiDinity/pariwisata-palangka-raya-mobile-app/assets/127974449/5a4d9fd9-9621-40d6-96ee-0d0295f852bf)
 
 

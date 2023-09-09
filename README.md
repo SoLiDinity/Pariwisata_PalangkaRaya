@@ -23,7 +23,7 @@ http: ^0.13.6
 html: ^0.15.3
 cloud_firestore: ^4.7.1
 ```
-Atau anda bisa menggunakan terminal untuk menginstal dependencies-dependencies tersebut dengan memasukan command ```dart pub isntall <nama dependencies>```. Sebagai contoh jika anda ingin menginstal dependencies html, maka masukan command berikut ini.
+Atau anda bisa menggunakan terminal untuk menginstal dependencies-dependencies tersebut dengan memasukan command ```dart pub isntall <nama_dependency>```. Sebagai contoh jika anda ingin menginstal dependencies html, maka masukan command berikut ini.
 ```
 dart pub install html
 ```
